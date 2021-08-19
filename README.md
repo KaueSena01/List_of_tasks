@@ -1,15 +1,15 @@
+<div align="center">
+<img src="https://github.com/KaueSena01/Lista_de_Tarefas/blob/master/assets/reactjs.png" width="120px"/>
+</div>
+
 # To-do list in React 📄
 
 📷 Demo video
 
 <img src="https://raw.githubusercontent.com/KaueSena01/Lista_de_Tarefas/master/assets/gif.gif" width="100%"/>
-  
-##
+   
+<a href="https://pt-br.reactjs.org/">More about ReactJs</a>
 
-<img aling="center" src="https://github.com/KaueSena01/Lista_de_Tarefas/blob/master/assets/react.png">
-
-
-                   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
