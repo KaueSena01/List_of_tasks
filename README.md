@@ -1,8 +1,15 @@
-# To-do list 📄
+# To-do list in React 📄
 
 📷 Demo video
 
+<img src="https://raw.githubusercontent.com/KaueSena01/Lista_de_Tarefas/master/assets/gif.gif" width="100%"/>
+  
+##
 
+<img aling="center" src="https://github.com/KaueSena01/Lista_de_Tarefas/blob/master/assets/react.png">
+
+
+                   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
