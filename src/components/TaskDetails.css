@@ -3,7 +3,7 @@
 	margin-top: 10px;
 }
 .task-details-container{
-	background-color: #444;
+	background-color: #ff6767;
 	margin: 25px 0;
 	padding: 15px 20px;
 	display: flex;
@@ -13,7 +13,7 @@
 }
 .task-details-container h2{
 	margin-bottom: 5px;
-	color: chartreuse;
+	color: #fff;
 }
 .task-details-container p{
 	text-align: justify;

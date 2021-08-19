@@ -10,13 +10,13 @@
 	border-radius: 5px;
 	border: none;
 	flex: 2;
-	background-color: #444;
-	color: #eee;
+	background-color: #fff;
+	color: #232323;
 	font-size: 16px;
 	transition: 0.11s all;
 }
 .add-task-input:focus{
-	border: 2px solid chartreuse;
+	border: 2px solid #ff6767;
 }
 .add-task-button-container{
 	margin-left: 10px;
